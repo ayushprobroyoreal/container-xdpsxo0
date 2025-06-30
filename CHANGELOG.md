@@ -1,3 +1,15 @@
+# v0.0.2 (Mon Jun 30 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update app.py ([@ayushprobroyoreal](https://github.com/ayushprobroyoreal))
+
+#### Authors: 1
+
+- [@ayushprobroyoreal](https://github.com/ayushprobroyoreal)
+
+---
+
 # v0.0.1 (Mon Jun 30 2025)
 
 :tada: This release contains work from a new contributor! :tada:
